@@ -1,2 +1,3 @@
 # Miembros
-Información sobre los miembros del grupo
+- Diego Prada Gracia
+- Liliana M. Moreno Vargas
